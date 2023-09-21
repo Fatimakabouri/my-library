@@ -13,6 +13,7 @@ const myLibrary = {
       return;
     }
 
+    console.log(userData);
     //create an iframe element
     const iframe = document.createElement("iframe");
 
